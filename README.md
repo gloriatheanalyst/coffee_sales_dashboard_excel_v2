@@ -19,5 +19,5 @@ It focuses on **customer behavior by time/day, revenue by product, and top-selli
 - Using formulas (INDEX, MATCH, MAX, TEXT) for dynamic insights
 
 ## Dashboard Preview
-![Coffee Sales Dashboard](Screenshot Coffee sales dashboard.png)
+![Coffee Sales Dashboard](https://github.com/gloriatheanalyst/coffee_sales_dashboard_excel_v2/blob/main/Screenshot%20Coffee%20sales%20dashboard.png)
 
