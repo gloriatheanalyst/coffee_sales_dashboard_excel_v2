@@ -18,6 +18,6 @@ It focuses on **customer behavior by time/day, revenue by product, and top-selli
 - Dashboard design & storytelling
 - Using formulas (INDEX, MATCH, MAX, TEXT) for dynamic insights
 
-## Preview
-Screenshot Coffee sales dashboard.png
+## Dashboard Preview
+![Coffee Sales Dashboard](Screenshot Coffee sales dashboard.png)
 
